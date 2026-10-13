@@ -1,1 +1,1 @@
-[COMP1238 Notes](comp1238.md)
+[link text](comp1238.md)
